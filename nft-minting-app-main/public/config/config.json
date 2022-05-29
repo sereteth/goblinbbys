@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5999881111980c4c9A6B705525d3AA68Ca6B2589",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x5999881111980c4c9a6b705525d3aa68ca6b2589",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "Ethereum",
+    "ID": 4
+  },
+  "NFT_NAME": "Goblin Bbys",
+  "SYMBOL": "GOBBYS",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/goblin-bbys-v2",
+  "SHOW_BACKGROUND": true
+}
